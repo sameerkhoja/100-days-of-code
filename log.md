@@ -8,9 +8,11 @@
 
 ### Day 1: January 3, 2017 
 
-**Today's Progress**: Finished reading FB's React docs, also learned about Firebase for fun.
+**Today's Progress**: Finished reading FB's React docs, also learned about Firebase for fun. Also learned about Gulp and Browserify and made a sample app that defines and runs Gulp build tasks.
 
-**Thoughts:** Getting more used to the way React works, documentation has been the best way to learn!
+**Thoughts:** Getting more used to the way React works, documentation has been the best way to learn! Gulp and browserify are very easy to pick up.
+
+**Link to work:** [Gulp and Browserify App](https://github.com/sameerkhoja/gulp-and-browserify)
 
 ### Day 2: January 4, 2017 
 
