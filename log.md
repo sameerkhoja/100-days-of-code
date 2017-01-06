@@ -6,8 +6,6 @@
 
 **Thoughts:** React essentially utilizes JSX to make HTML modular. Through functions and classes, one can store state and properties into HTML components to introduce a new level of dynamic web development.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
 ### Day 1: January 3, 2017 
 
 **Today's Progress**: Finished reading FB's React docs, also learned about Firebase for fun.
