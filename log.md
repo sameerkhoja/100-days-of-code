@@ -1,30 +1,29 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 2, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Dove into React using the Facebook docs, learned about state and properties and followed along examples.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** React essentially utilizes JSX to make HTML modular. Through functions and classes, one can store state and properties into HTML components to introduce a new level of dynamic web development.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: January 3, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Finished reading FB's React docs, also learned about Firebase for fun.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Getting more used to the way React works, documentation has been the best way to learn!
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 2: January 4, 2017 
 
+**Today's Progress**: Dove into BackboneJS, learning what it's used for and walked through basic examples.
 
-### Day 1: June 27, Monday
+**Thoughts:** BackboneJS and React seem to overlap a bit when it comes to how things are viewed on the browser. BackboneJS, however, has support for Models and Collections and can store data locally using localStorage.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+### Day 3: January 5, 2017 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: Did all four parts to this [BackboneJS tutorial](http://adrianmejia.com/blog/2012/09/11/backbone-dot-js-for-absolute-beginners-getting-started/). Learned a TON. 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts:** Getting more used to the way React works, documentation has been the best way to learn!
+
+**Link to work:** [Todo App](https://github.com/sameerkhoja/backbone-todo-app)
