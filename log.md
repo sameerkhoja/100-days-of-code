@@ -34,7 +34,7 @@
 
 **Thoughts:** GraphQL is AMAZING and much easier/more efficient than an API call. With only one endpoint, the client has all the say in how it wants its JSON to look like, rather than being forced to parse whatever the API gives. 
 
-### Day 5: January 5, 2017 
+### Day 5: January 7, 2017 
 
 **Today's Progress**: Learned more GraphQL as it applies to database queries, learned how to use with SQL and MongoDB. Also learned what Promises are and why they're used.
 
