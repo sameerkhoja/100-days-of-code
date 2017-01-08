@@ -27,3 +27,16 @@
 **Thoughts:** Getting more used to the way React works, documentation has been the best way to learn!
 
 **Link to work:** [Todo App](https://github.com/sameerkhoja/backbone-todo-app)
+
+### Day 4: January 6, 2017 
+
+**Today's Progress**: Went super in-depth into GraphQL, learned and used express-graphql and graphiql
+
+**Thoughts:** GraphQL is AMAZING and much easier/more efficient than an API call. With only one endpoint, the client has all the say in how it wants its JSON to look like, rather than being forced to parse whatever the API gives. 
+
+### Day 5: January 5, 2017 
+
+**Today's Progress**: Learned more GraphQL as it applies to database queries, learned how to use with SQL and MongoDB. Also learned what Promises are and why they're used.
+
+**Thoughts:** Promises make a lot of sense when I looked into it, and as I do this I'm learning more about JS as a language works.
+
