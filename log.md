@@ -38,5 +38,5 @@
 
 **Today's Progress**: Learned more GraphQL as it applies to database queries, learned how to use with SQL and MongoDB. Also learned what Promises are and why they're used.
 
-**Thoughts:** Promises make a lot of sense when I looked into it, and as I do this I'm learning more about JS as a language works.
+**Thoughts:** Promises make a lot of sense when I looked into it, and as I do this I'm learning more about how JS as a language works.
 
