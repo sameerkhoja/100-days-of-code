@@ -40,3 +40,9 @@
 
 **Thoughts:** Promises make a lot of sense when I looked into it, and as I do this I'm learning more about how JS as a language works.
 
+### Day 6: January 29, 2017
+
+**Today's Progress**: Went over Big O example questions from Cracking the Coding Interview.
+
+**Thoughts:** Not too bad, looking to get into algorithms soon.
+
